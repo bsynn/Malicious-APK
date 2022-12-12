@@ -14,7 +14,7 @@
 ```bash
 git clone https://github.com/bsynn/Malicious-APK.git
 ```
-### Setup permission
+### Set permission
 ```bash
 cd Malicious-APK
 chmod +x malicious_apk.sh
